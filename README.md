@@ -57,7 +57,8 @@ Uygulama, bileşen bazlı (component-based) bir mimariyle çalışır:
 
 *(Projenin çalışan halinden alınan ekran görüntülerini buraya sürükleyip bırakabilirsiniz)*
 
-<img width="457" height="824" alt="Ekran görüntüsü 2026-04-01 151732" src="https://github.com/user-attachments/assets/440e086f-9404-4664-b41e-6dbec071dd73" />
+<img width="257" height="463" alt="Ekran görüntüsü 2026-04-01 151732" src="https://github.com/user-attachments/assets/adbdb2e1-b4de-456d-8ac2-aa79af704e4f" />
+
 <img width="452" height="823" alt="Ekran görüntüsü 2026-04-01 151754" src="https://github.com/user-attachments/assets/b3a44e48-18af-4b21-aa67-ce1db2dcf307" />
 <img width="458" height="828" alt="Ekran görüntüsü 2026-04-01 151830" src="https://github.com/user-attachments/assets/a0a5076b-e158-42ae-b8ae-fc9d7963ec51" />
 <img width="457" height="828" alt="Ekran görüntüsü 2026-04-01 151900" src="https://github.com/user-attachments/assets/00eceffd-d2d3-43a0-af65-ef493a86a395" />
