@@ -1,0 +1,3 @@
+app/(tabs)/_layout.tsx(2,31): error TS2307: Cannot find module '@expo/vector-icons' or its corresponding type declarations.
+index.ts(3,17): error TS2307: Cannot find module './App' or its corresponding type declarations.
+src/components/MovieItem.tsx(3,31): error TS2307: Cannot find module '@expo/vector-icons' or its corresponding type declarations.

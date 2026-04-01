@@ -1,0 +1,36 @@
+export type Locale = 'en' | 'tr';
+
+export const dict = {
+  en: {
+    addToList: 'Add to List',
+    clearQueue: 'Clear Queue',
+    myList: 'My List',
+    settings: 'Settings',
+    searchPlaceholder: 'Search your list...',
+    placeholder: 'Enter a movie or show title...',
+    alertClearTitle: 'Clear Queue',
+    alertClearMessage: 'Are you sure you want to clear your entire watchlist?',
+    alertCancel: 'Cancel',
+    alertConfirm: 'Clear',
+    darkMode: 'Dark Mode',
+    language: 'Language (EN/TR)',
+    description: "Ümit's ultimate watch queue. Add your favorite movies below to keep track of your queue.",
+    title: "Ümit's BingeList",
+  },
+  tr: {
+    addToList: 'Listeye Ekle',
+    clearQueue: 'Kuyruğu Temizle',
+    myList: 'Listem',
+    settings: 'Ayarlar',
+    searchPlaceholder: 'Listenizde ara...',
+    placeholder: 'Film veya dizi adı girin...',
+    alertClearTitle: 'Kuyruğu Temizle',
+    alertClearMessage: 'Tüm izleme listenizi temizlemek istediğinize emin misiniz?',
+    alertCancel: 'İptal',
+    alertConfirm: 'Temizle',
+    darkMode: 'Karanlık Mod',
+    language: 'Dil (TR/EN)',
+    description: 'Ümit\'in nihai izleme kuyruğu. Kuyruğunuzu takip etmek için favori filmlerinizi aşağıya ekleyin.',
+    title: 'Ümit Sineması',
+  },
+};
